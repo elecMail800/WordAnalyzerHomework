@@ -1,0 +1,14 @@
+C:\Users\Konos\source\repos\WordAnalyzerHomework\WordAnalyzerHomework\bin\Debug\net8.0\WordAnalyzerHomework.exe
+C:\Users\Konos\source\repos\WordAnalyzerHomework\WordAnalyzerHomework\bin\Debug\net8.0\WordAnalyzerHomework.deps.json
+C:\Users\Konos\source\repos\WordAnalyzerHomework\WordAnalyzerHomework\bin\Debug\net8.0\WordAnalyzerHomework.runtimeconfig.json
+C:\Users\Konos\source\repos\WordAnalyzerHomework\WordAnalyzerHomework\bin\Debug\net8.0\WordAnalyzerHomework.dll
+C:\Users\Konos\source\repos\WordAnalyzerHomework\WordAnalyzerHomework\bin\Debug\net8.0\WordAnalyzerHomework.pdb
+C:\Users\Konos\source\repos\WordAnalyzerHomework\WordAnalyzerHomework\obj\Debug\net8.0\WordAnalyzerHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konos\source\repos\WordAnalyzerHomework\WordAnalyzerHomework\obj\Debug\net8.0\WordAnalyzerHomework.AssemblyInfoInputs.cache
+C:\Users\Konos\source\repos\WordAnalyzerHomework\WordAnalyzerHomework\obj\Debug\net8.0\WordAnalyzerHomework.AssemblyInfo.cs
+C:\Users\Konos\source\repos\WordAnalyzerHomework\WordAnalyzerHomework\obj\Debug\net8.0\WordAnalyzerHomework.csproj.CoreCompileInputs.cache
+C:\Users\Konos\source\repos\WordAnalyzerHomework\WordAnalyzerHomework\obj\Debug\net8.0\WordAnalyzerHomework.dll
+C:\Users\Konos\source\repos\WordAnalyzerHomework\WordAnalyzerHomework\obj\Debug\net8.0\refint\WordAnalyzerHomework.dll
+C:\Users\Konos\source\repos\WordAnalyzerHomework\WordAnalyzerHomework\obj\Debug\net8.0\WordAnalyzerHomework.pdb
+C:\Users\Konos\source\repos\WordAnalyzerHomework\WordAnalyzerHomework\obj\Debug\net8.0\WordAnalyzerHomework.genruntimeconfig.cache
+C:\Users\Konos\source\repos\WordAnalyzerHomework\WordAnalyzerHomework\obj\Debug\net8.0\ref\WordAnalyzerHomework.dll
